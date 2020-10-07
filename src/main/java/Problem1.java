@@ -1,6 +1,10 @@
+//Haaris Nadeem
+//CSS 143 Section B
+//Homework 1
+
 public class Problem1 {
 
-    // Do not change signature (function name, parameters)
+
     // received help from cite "https://www.geeksforgeeks.org/binary-search/" (used iterative implementation)
     public static int binarySearch(int[] data, int target) {
 
