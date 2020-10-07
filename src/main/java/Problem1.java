@@ -6,6 +6,7 @@ public class Problem1 {
 
 
     // received help from cite "https://www.geeksforgeeks.org/binary-search/" (used iterative implementation)
+
     public static int binarySearch(int[] data, int target) {
 
         int x = 0; // this var narrows down the left side of the array
